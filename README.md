@@ -5,5 +5,3 @@ I will add to this as I encounter more software that requires custom configurati
 kitty - terminal emulator
 
 zed - code editor
-
-starship - zsh styling
