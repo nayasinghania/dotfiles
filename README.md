@@ -1,6 +1,4 @@
-# linux-config
-
-I will add to this as I encounter more software that requires custom configuration
+# dotfiles 
 
 kitty - terminal emulator
 
