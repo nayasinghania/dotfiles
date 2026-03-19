@@ -1,5 +1,7 @@
 # dotfiles 
 
-kitty - terminal emulator
-
-zed - code editor
+| Tool     | Description           |
+|----------|-----------------------|
+| kitty    | Terminal emulator     |
+| zed      | Code editor           |
+| starship | Zsh theme             |
