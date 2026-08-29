@@ -1,2 +1,2 @@
-# dotfiles 
-Configuration files for software
+# Linux
+Home folder config backup
